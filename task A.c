@@ -1,3 +1,9 @@
+/*
+Name: Rima Akter
+ID: 1702071
+Level-1 Semester-I
+*/
+
 #include<stdio.h>
 #include<string.h>
 
